@@ -1,0 +1,3 @@
+Replace AccountViewModels.cs from this folder path -> CanteenApp\Models 
+Replace AccountController.cs from this folder path -> CanteenApp\Controllers
+Replace Register.cshtml from this folder path -> CanteenApp\Views\Account
